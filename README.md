@@ -37,7 +37,7 @@ Para rodar o projeto localmente:
 
 1. Clone o repositório para sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/EmanuelMessias/IA_de_busca_em_documentos
    ```
 
 2. Instale as dependências necessárias:
@@ -70,14 +70,11 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request
 ### Contato
 
 Para mais informações, entre em contato:
-- **Email**: seu-email@exemplo.com
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **Email**: emanuel.messias794322@gmail.com
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/emanuel-messias-87a4a0215/)
 
 ---
 
-### Licença
 
-Este projeto é distribuído sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-```
 
 Esse README é atrativo para recrutadores, destacando as funcionalidades e a utilidade do projeto, além de fornecer instruções claras para execução e contribuição.
