@@ -71,10 +71,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request
 
 Para mais informações, entre em contato:
 - **Email**: emanuel.messias794322@gmail.com
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/emanuel-messias-87a4a0215/)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/emanuel-messias-87a4a0215/)
 
 ---
 
 
 
-Esse README é atrativo para recrutadores, destacando as funcionalidades e a utilidade do projeto, além de fornecer instruções claras para execução e contribuição.
+
