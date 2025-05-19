@@ -1,7 +1,7 @@
 
 ---
 
-### README para Projeto de IA Generativa de Busca de Documentos
+### Projeto de IA Generativa de Busca de Documentos
 
 ```markdown
 # IA Generativa de Busca de Documentos
@@ -30,6 +30,10 @@ O objetivo deste projeto é facilitar o acesso a informações críticas e docum
 1. **Requisições de Busca**: Configuração e integração com a API de busca, envio de consultas e recuperação de dados.
 2. **Processamento de Respostas**: Filtragem e formatação dos resultados recebidos, garantindo que as informações estejam apresentadas de forma clara e precisa.
 3. **Exibição dos Resultados**: Apresentação dos documentos encontrados em uma interface de fácil interpretação para o usuário.
+
+## Motivação
+
+A busca por documentos relevantes em bases de dados é uma tarefa recorrente em ambientes acadêmicos e corporativos. No entanto, as ferramentas tradicionais de busca muitas vezes retornam resultados irrelevantes ou exigem um alto nível de conhecimento técnico. Este projeto foi desenvolvido para automatizar e otimizar esse processo, utilizando IA generativa e NLP, promovendo um acesso mais rápido e eficiente à informação.
 
 ## Como Executar o Projeto
 
