@@ -59,7 +59,11 @@ Para rodar o projeto localmente:
    ```
 
 5. Acesse o notebook e siga as instruções para realizar buscas de documentos.
+![image](https://github.com/user-attachments/assets/ff463b97-a526-4a9c-a1e0-5522993f4d06)
+Crie sua API key em: https://aistudio.google.com/apikey
 
+![Uploading image.png…]()
+Você pode editar as Bibliotecas com Informações específicas ou conectar a um dataframe com o pandas
 ## Exemplos de Uso
 
 Aqui estão alguns exemplos de como utilizar a ferramenta:
