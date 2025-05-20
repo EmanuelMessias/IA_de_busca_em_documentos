@@ -65,6 +65,10 @@ Para rodar o projeto localmente:
 ![image](https://github.com/user-attachments/assets/6979ae89-a7a9-46d9-8b64-7d6f2441db17)
 
 - Você pode editar as Bibliotecas com Informações específicas ou conectar a um dataframe com o pandas
+
+![image](https://github.com/user-attachments/assets/79475160-aeb7-45e7-b521-7b337c7aa2b3)
+
+- Faça sua consulta no campo (consulta="")
 ## Exemplos de Uso
 
 Aqui estão alguns exemplos de como utilizar a ferramenta:
