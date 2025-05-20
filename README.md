@@ -21,9 +21,11 @@ O objetivo deste projeto é facilitar o acesso a informações críticas e docum
 
 ## Tecnologias Utilizadas
 
-- **Python**: Linguagem base do projeto, escolhida por sua robustez e versatilidade para manipulação de dados e integração com APIs.
-- **APIs de Busca**: Utiliza API do Google ou outras APIs de busca de terceiros para fornecer resultados relevantes de alta qualidade.
-- **Bibliotecas de IA e NLP**: Explora modelos de inteligência artificial e processamento de linguagem natural para melhorar a precisão das buscas.
+- **Python**: Linguagem principal do projeto pela sua versatilidade e ampla comunidade.
+- **NumPy**: Para operações numéricas eficientes e manipulação de arrays.
+- **Pandas**: Para organização, manipulação e análise dos dados obtidos das buscas.
+- **google.generativeai**: Biblioteca oficial do Google para uso de modelos generativos de IA, usada para interpretar consultas e gerar respostas contextuais.
+- **Embedding**: Técnica para transformar textos em vetores numéricos, facilitando a busca semântica e a comparação entre documentos.
 
 ## Estrutura do Projeto
 
