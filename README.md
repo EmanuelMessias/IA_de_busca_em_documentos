@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cf614a4e-70bf-4dbf-bde4-13f697f39068)
+
 ---
 
 ### Projeto de IA Generativa de Busca de Documentos
