@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/cf614a4e-70bf-4dbf-bde4-13f697f39068)
 ---
 
 ### Projeto de IA Generativa de Busca de Documentos
@@ -60,10 +60,11 @@ Para rodar o projeto localmente:
 
 5. Acesse o notebook e siga as instruções para realizar buscas de documentos.
 ![image](https://github.com/user-attachments/assets/ff463b97-a526-4a9c-a1e0-5522993f4d06)
-Crie sua API key em: https://aistudio.google.com/apikey
+- Crie sua API key em: https://aistudio.google.com/apikey
 
-![Uploading image.png…]()
-Você pode editar as Bibliotecas com Informações específicas ou conectar a um dataframe com o pandas
+![image](https://github.com/user-attachments/assets/6979ae89-a7a9-46d9-8b64-7d6f2441db17)
+
+- Você pode editar as Bibliotecas com Informações específicas ou conectar a um dataframe com o pandas
 ## Exemplos de Uso
 
 Aqui estão alguns exemplos de como utilizar a ferramenta:
